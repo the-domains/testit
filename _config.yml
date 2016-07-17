@@ -1,0 +1,28 @@
+name: testit
+favicon: null
+layout_spectrum: 0.7548883378040045
+typography_spectrum: 0.5471183159388602
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.4906639764085412
+  lightness: 0.7795561400707811
+  saturation: 0.25950012379325926
+  rhythmicContrast: 0.8365956647321582
+purpose: []
